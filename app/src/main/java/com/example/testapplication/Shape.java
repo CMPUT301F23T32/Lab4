@@ -8,5 +8,6 @@ abstract public class Shape {
     private String color = "green";
 
 
-
 }
+
+
