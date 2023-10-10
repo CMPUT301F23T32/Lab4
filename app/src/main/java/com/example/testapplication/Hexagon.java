@@ -1,10 +1,10 @@
 package com.example.testapplication;
 
-public class MyShape extends Shape {
+public class Hexagon extends Shape {
 
     private String hexagon;
 
-    public MyShape(String hexagon){
+    public Hexagon(String hexagon){
         this.hexagon = hexagon;
     }
 
